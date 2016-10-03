@@ -20,3 +20,12 @@ body {
     height: 200px;
 }
 
+/*user defined*/
+.container
+              {
+                    max-width: 800px;
+                    margin-right: 20px;
+                    color: grey;
+                    font-family: sans-seriff;
+                    margin-left: 20px;
+                 }
